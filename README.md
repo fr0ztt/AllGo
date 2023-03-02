@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="logo-allgo.png" width="350px" height="350px">
+ <img src="logo-allgo.png" width="250px" height="250px">
  <br>AllGo APP
 </h1>
 
