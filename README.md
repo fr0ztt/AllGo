@@ -3,7 +3,7 @@
  README Template
 </h1>
 
-## 📚 Ebook
+## ╾━╤デ╦︻ (▀̿ĺ̯▀̿ ̿)s
 
 > Este repositório é um projeto para a comunidade de cs:go portuguesa. Não é nada mais nada menos que uma aplicação com todas as equipas, competições portuguesa (no ativo) e jogos do DIA com resultado ao vivo (todos os jogos dependem de ter uma pessoa por trás para atualizar o mesmo, por isso é natural se algum jogo não tenha o resultado ataulizado ronda por ronda).
 
