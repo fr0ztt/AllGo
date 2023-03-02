@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cardview_dark_background"
+    tools:context=".GameDetailActivity">
+
+    <ImageView
+        android:layout_width="700dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="-300dp"
+        android:layout_marginStart="-100dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/white_btn_background"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout3"
+        app:layout_constraintVertical_bias="0.49"
+        tools:ignore="MissingConstraints">
+
+
+        <TextView
+            android:id="@+id/txt_team2_player1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:layout_marginEnd="65dp"
+            android:fontFamily="@font/roboto"
+            android:text="TBD"
+            android:textAlignment="center"
+            android:textColor="#292929"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/txt_team2_player2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="65dp"
+            android:fontFamily="@font/roboto"
+            android:text="TBD"
+            android:textAlignment="center"
+            android:textColor="#292929"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txt_team2_player1" />
+
+        <TextView
+            android:id="@+id/txt_team2_player5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="65dp"
+            android:fontFamily="@font/roboto"
+            android:text="TBD"
+            android:textAlignment="center"
+            android:textColor="#292929"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txt_team2_player4" />
+
+        <TextView
+            android:id="@+id/txt_team2_player3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="65dp"
+            android:fontFamily="@font/roboto"
+            android:text="TBD"
+            android:textAlignment="center"
+            android:textColor="#292929"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txt_team2_player2" />
+
+        <TextView
+            android:id="@+id/txt_team2_player4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="65dp"
+            android:fontFamily="@font/roboto"
+            android:text="TBD"
+            android:textAlignment="center"
+            android:textColor="#292929"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txt_team2_player3" />
+
+        <TextView
+            android:id="@+id/txt_team1_player2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="65dp"
+            android:layout_marginTop="16dp"
+            android:fontFamily="@font/roboto"
+            android:text="TBD"
+            android:textAlignment="center"
+            android:textColor="#292929"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txt_team1_player1" />
+
+        <TextView
+            android:id="@+id/txt_team1_player1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="65dp"
+            android:layout_marginTop="80dp"
+            android:fontFamily="@font/roboto"
+            android:text="TBD"
+            android:textAlignment="center"
+            android:textColor="#292929"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/txt_team1_player5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="65dp"
+            android:layout_marginTop="16dp"
+            android:fontFamily="@font/roboto"
+            android:text="TBD"
+            android:textAlignment="center"
+            android:textColor="#292929"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txt_team1_player4" />
+
+        <TextView
+            android:id="@+id/txt_team1_player3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="65dp"
+            android:layout_marginTop="16dp"
+            android:fontFamily="@font/roboto"
+            android:text="TBD"
+            android:textAlignment="center"
+            android:textColor="#292929"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txt_team1_player2" />
+
+        <TextView
+            android:id="@+id/txt_team1_player4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="65dp"
+            android:layout_marginTop="16dp"
+            android:fontFamily="@font/roboto"
+            android:text="TBD"
+            android:textAlignment="center"
+            android:textColor="#292929"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txt_team1_player3" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout3"
+        android:layout_width="700dp"
+        android:layout_height="300dp"
+        android:layout_marginStart="-100dp"
+
+        android:foregroundGravity="center"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints">
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints"/>
+
+    <ImageView
+        android:id="@+id/iv_team2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="@+id/txt_team2"
+        app:layout_constraintStart_toStartOf="@+id/txt_team2"
+        app:layout_constraintTop_toBottomOf="@+id/txt_data"
+        tools:srcCompat="@drawable/tbd" />
+
+    <ImageView
+        android:id="@+id/iv_team1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="@+id/txt_team1"
+        app:layout_constraintStart_toStartOf="@+id/txt_team1"
+        app:layout_constraintTop_toBottomOf="@+id/txt_data"
+        tools:srcCompat="@drawable/tbd" />
+
+    <TextView
+        android:id="@+id/txt_team1"
+        android:layout_width="130dp"
+        android:layout_height="57dp"
+        android:layout_marginStart="16dp"
+        android:fontFamily="@font/roboto"
+        android:text="TBD"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_team1" />
+
+    <TextView
+        android:id="@+id/txt_resultTeam1"
+        android:layout_width="80dp"
+        android:layout_height="41dp"
+        android:layout_marginBottom="-14dp"
+        android:fontFamily="@font/roboto"
+        android:text="0"
+        android:textAlignment="center"
+        android:textColor="#ffff"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/iv_team1"
+        app:layout_constraintEnd_toEndOf="@+id/iv_team1"
+        app:layout_constraintStart_toStartOf="@+id/iv_team1" />
+
+    <TextView
+        android:id="@+id/txt_resultTeam2"
+        android:layout_width="80dp"
+        android:layout_height="41dp"
+        android:layout_marginBottom="-14dp"
+        android:fontFamily="@font/roboto"
+        android:text="0"
+
+        android:textAlignment="center"
+        android:textColor="#ffff"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/iv_team2"
+        app:layout_constraintEnd_toEndOf="@+id/iv_team2"
+        app:layout_constraintStart_toStartOf="@+id/iv_team2" />
+
+    <TextView
+        android:id="@+id/txt_team2"
+        android:layout_width="130dp"
+        android:layout_height="57dp"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/roboto"
+        android:text="TBD"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_team2" />
+
+    <TextView
+        android:id="@+id/txt_vs"
+        android:layout_width="58dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="24dp"
+        android:fontFamily="@font/roboto"
+        android:text="VS"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/txt_team1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/txt_team1" />
+
+    <TextView
+        android:id="@+id/txt_competicao"
+        android:layout_width="384dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/roboto"
+        android:text="Nome da Competicao"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout2" />
+
+    <TextView
+        android:id="@+id/txt_data"
+        android:layout_width="176dp"
+        android:layout_height="21dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/roboto"
+        android:text="Data"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_competicao" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,4 +1,4 @@
-<img src="logo-allgo.png" width="350px" height="350px">
+<img align= "center" src="logo-allgo.png" width="350px" height="350px">
 <h1 align="center">
  README Template
 </h1>

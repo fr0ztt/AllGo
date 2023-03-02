@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651228209905",
+    "project_id": "fir-teste-64ed7",
+    "storage_bucket": "fir-teste-64ed7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651228209905:android:bd90c4d861d90359657f50",
+        "android_client_info": {
+          "package_name": "com.example.allgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651228209905-7dc54t6mfcca7aq7g5e014mfalkq5spk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzMmfNrdr-dYanhqAkNtzCWZZ2dY4G1bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651228209905-7dc54t6mfcca7aq7g5e014mfalkq5spk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

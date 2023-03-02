@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Competições"
+        android:id="@+id/admincompeticoes"
+        android:icon="@drawable/ic_baseline_emoji_events_24"/>
+    <item android:title="Equipas"
+        android:id="@+id/adminequipas"
+        android:icon="@drawable/ic_baseline_group_24"/>
+    <item android:title="Jogos"
+        android:id="@+id/adminjogos"
+        android:icon="@drawable/ic_baseline_group_24"/>
+
+</menu>
