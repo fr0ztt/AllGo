@@ -9,7 +9,7 @@
 
 ---
 
-## Selecione o README que deseja usar
+## Redes Sociais
 
 [![Twitter Allgo](https://img.shields.io/badge/Twitter%20-%23323330.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://github.com/iuricode/readme-template/tree/main/profile)
 [![Twitter Pessoal](https://img.shields.io/badge/twitter%20Pessoal%20-%23323330.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://github.com/iuricode/readme-template/blob/main/repository)    
