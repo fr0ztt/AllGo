@@ -1,13 +1,11 @@
 <img align= "center" src="logo-allgo.png" width="350px" height="350px">
 <h1 align="center">
- README Template
+ AllGo APP
 </h1>
 
 ## ╾━╤デ╦︻ (▀̿ĺ̯▀̿ ̿)s
 
 > Este repositório é um projeto para a comunidade de cs:go portuguesa. Não é nada mais nada menos que uma aplicação com todas as equipas, competições portuguesa (no ativo) e jogos do DIA com resultado ao vivo (todos os jogos dependem de ter uma pessoa por trás para atualizar o mesmo, por isso é natural se algum jogo não tenha o resultado ataulizado ronda por ronda).
-
-- eFront - Estudando frontend do zero. [Clique aqui para comprar](https://iuricode.com/efront)
 
 ---
 
