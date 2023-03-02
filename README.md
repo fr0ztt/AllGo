@@ -1,6 +1,7 @@
-<img align= "center" src="logo-allgo.png" width="350px" height="350px">
+<img src="logo-allgo.png" width="350px" height="350px">
 <h1 align="center">
- AllGo APP
+ <img src="logo-allgo.png" width="350px" height="350px">
+ <br>AllGo APP
 </h1>
 
 ## ╾━╤デ╦︻ (▀̿ĺ̯▀̿ ̿)s
