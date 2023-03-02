@@ -1,4 +1,3 @@
-<img src="logo-allgo.png" width="350px" height="350px">
 <h1 align="center">
  <img src="logo-allgo.png" width="350px" height="350px">
  <br>AllGo APP
