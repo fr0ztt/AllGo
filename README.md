@@ -13,8 +13,8 @@
 
 ## Selecione o README que deseja usar
 
-[![Perfil](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/iuricode/readme-template/tree/main/profile)
-[![Repositório](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/iuricode/readme-template/blob/main/repository)    
+[![Twitter Allgo](https://img.shields.io/badge/Twitter%20-%23323330.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://github.com/iuricode/readme-template/tree/main/profile)
+[![Twitter Pessoal](https://img.shields.io/badge/twitter%20Pessoal%20-%23323330.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://github.com/iuricode/readme-template/blob/main/repository)    
 
 ## 🍜 Licença
 
